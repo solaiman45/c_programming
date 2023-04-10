@@ -1,6 +1,8 @@
 # Ignore all
 *
 
+**/*.exe
+
 # Unignore all with extensions
 !*.*
 
