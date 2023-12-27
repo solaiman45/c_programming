@@ -9,7 +9,7 @@
 
 int main(void)
 {
-    int sum, n;
+    int sum = 0, n;
 
     printf("Enter integers (0 to terminate): ");
     scanf("%d", &n);

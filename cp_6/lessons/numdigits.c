@@ -9,7 +9,7 @@
 
 int main(void)
 {
-    int digts, n;
+    int digts = 0, n;
 
     printf("Enter a non-negative integer: ");
     scanf("%d", &n);
